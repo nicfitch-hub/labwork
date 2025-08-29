@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/bp_cube.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MJ/71KUOI35TVYU8LFQEPBJ5A.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HQ/4RJR46BUPRRKZQO6CWSFVV.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ZZ/BC3VUIGHQY4OMM5IEXOOHO.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/HD/VO9SHHIYQG1QB9YFDU7T7V.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/Blueprints/bp_platform.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/Blueprints/bp_platyformReal.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/Blueprints/bp_trigger.uasset",
+				"C:/Users/nicfitch/Documents/Unreal Projects/MyProject/Content/Blueprints/NewBlueprint1.uasset"
+			]
+		}
+	]
+}
